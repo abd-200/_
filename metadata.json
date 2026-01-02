@@ -1,0 +1,8 @@
+{
+  "name": "Smart Ajlun Chamber of Commerce",
+  "description": "The official digital gateway for Ajlun Chamber of Commerce, featuring AI-powered document analysis, secure certification, and a comprehensive business ecosystem.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
